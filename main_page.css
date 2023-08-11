@@ -1,0 +1,66 @@
+h1{
+    text-align:center;
+    font-size:110px;
+    color:coral;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left:50px;
+}
+header{
+    border: 1px solid white;
+}
+footer #dashbord{
+border: 1px solid white;
+height: 90px;
+width:100%;
+}
+#home{
+    border: 1px solid white;
+    margin-left:0px;
+    height: 90px;
+    width:360px;
+    font-size: 40px;
+
+}
+#b{
+    border: 1px solid white;
+    margin-top: -2px;
+    margin-left: 0px;
+    height: 90px;
+    width:360px;
+    font-size: 40px;
+}
+#search{
+    border: 1px solid white;
+   margin-top:-2px;
+   
+   height: 90px;
+   width:360px;
+   font-size: 40px;
+   
+}
+#user{
+    border: 1px solid white;
+    margin-top:-2px;
+    margin-left:0px;
+    height: 90px;
+   width:370px;
+   font-size: 40px;;
+}
+.stories{
+    border: 1px solid whitesmoke;
+    width:100%;
+    height: 150px;
+    background-color: white;
+}
+p{
+    border: 1px solid whitesmoke;
+    height: 100px;
+    text-align: right;
+    font-size: 50px;
+    padding-right: 30px;
+}
+section{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    height: 1000px;
+}

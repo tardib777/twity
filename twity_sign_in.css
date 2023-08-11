@@ -1,0 +1,74 @@
+h1{
+    text-align:center;
+    font-size:110px;
+    color:coral;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left:50px;
+
+}
+#image{
+    border:1px solid white;
+    height: 120px;
+    width:120px;
+    background-image: url("/pictures/download.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: -140px 0px 0px 550px;
+}
+.sg{
+    border: 1px solid white;
+    margin-top: 50px;
+    height:500px;
+}
+input[type="password"]
+{
+    width: 400px;
+}
+input[placeholder="verify password"]{
+    width:560px;
+}
+#verify{
+    border:1px solid white;
+    margin-left: -335px;
+}
+#country{
+    border: 1px solid white;
+    margin-left: 210px;
+}
+#check{
+    border:1px solid white;
+    margin-top: 50px;
+    width: fit-content;
+    color:black;
+    font-size: 17px;
+}
+#sub{
+    margin-top: 30px;
+    margin-left: 330px;
+}
+#sub button{
+    width:800px;
+    background-color: coral;
+    border: 1px solid coral;
+    font-weight: bolder;
+}
+input[type="tel"]{
+    width:400px;
+}
+.gender{
+    border:1px solid white;
+    width:fit-content;
+    margin:-95px 0px 0px 1050px;
+    color:black;
+    font-size:20px;
+}
+#gfm{
+    border: 1px solid white;
+    margin-left: 20px;
+}
+#birth{
+    border:1px solid white;
+    margin-top: -75px;
+    margin-left: 430px;
+    color:black;
+}

@@ -1,0 +1,93 @@
+h1{
+    text-align:center;
+    font-size:110px;
+    color:coral;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left:50px;
+
+}
+#image{
+    border:1px solid white;
+    height: 120px;
+    width:120px;
+    background-image: url("/pictures/download.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: -140px 0px 0px 550px;
+}
+#fields{
+    border:1px solid white;
+    margin: 70px 0px 0px 0px;
+    height: 400px;
+}
+#email{
+    border: 1px solid white;
+    margin-top: 10px;
+    font-size: 30px;
+}
+#email input[type="email"]{
+    border: 1px solid black;
+    height:50px;
+    font-size: 20px;
+}
+#password{
+    border: 1px solid white;
+    margin-top: 10px;
+    font-size: 30px;
+}
+#password input[type="password"]{
+    border: 1px solid black;
+    height:50px;
+    font-size: 20px;
+}
+#fields input[type="submit"]{
+    background-color: coral;
+    width:800px;
+    color:white;
+    font-weight: bolder;
+    margin-left: 330px;
+    border: 1px solid coral;
+    height:50px;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.sign_in{
+    border:1px solid white;
+    margin-top:30px;
+    height: 100px;
+}
+.sign_in p{
+    text-align: center;
+}
+.sign_in button{
+    background-color: rgb(238, 238, 13);
+    margin-left:330px;
+    width:800px;
+    height:50px;
+    border-color:rgb(238, 238, 13) ;
+}
+.sign_in a{
+    color:white;
+    font-weight: bolder;
+    text-decoration-line: none;
+    font-size: 30px;
+}
+.languges{
+    border: 1px solid white;
+    margin-top:100px;
+}
+#Eng{
+    margin-left: 400px;
+    display: inline;
+    margin-top: 20px;
+}
+.one{
+    text-decoration-line: none;
+}
+#Ar{
+    margin-left: 1000px;
+    margin-top: -25px;   
+}
+.two{
+    text-decoration-line: none; 
+}
